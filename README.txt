@@ -1,3 +1,5 @@
+For an overview of the objective, please review the document hw3.pdf
+
 Austin Schaumberg
 CS 534 | Fall 2016
 HW3 - File: ReadMe.txt
